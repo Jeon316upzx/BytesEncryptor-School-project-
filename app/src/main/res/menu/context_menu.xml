@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/ENCRYPT_WITH_AES"
+        android:icon="@android:drawable/ic_lock_idle_lock"
+        android:title="ENCRYPT WITH AES"/>
+
+    <item android:id="@+id/ENCRYPT_WITH_RSA"
+        android:icon="@android:drawable/ic_lock_idle_lock"
+        android:title="ENCRYPT WITH RSA"/>
+
+    <item android:id="@+id/ENCRYPT_WITH_SHA"
+        android:icon="@android:drawable/ic_lock_idle_lock"
+        android:title="ENCRYPT WITH SHA"/>
+
+</menu>

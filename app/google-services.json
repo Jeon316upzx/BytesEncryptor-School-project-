@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "34992377838",
+    "firebase_url": "https://bytesencryptor.firebaseio.com",
+    "project_id": "bytesencryptor",
+    "storage_bucket": "bytesencryptor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34992377838:android:4fc4cf229e1759c6",
+        "android_client_info": {
+          "package_name": "com.example.ifeanyi.bytes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34992377838-mdo5jnn91fre0mb90s1s65hnqdvjt7bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASpqh8mlvdCjACnNdcboOVq-HdMi2tcrs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34992377838:android:6d3c18b666841dbd",
+        "android_client_info": {
+          "package_name": "com.example.ifeanyi.bytesencryptor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34992377838-mdo5jnn91fre0mb90s1s65hnqdvjt7bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASpqh8mlvdCjACnNdcboOVq-HdMi2tcrs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
